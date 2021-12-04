@@ -6,4 +6,8 @@
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="SharpWebview" Version="0.6.1" />
+    </ItemGroup>
+
 </Project>
